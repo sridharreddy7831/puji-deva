@@ -135,7 +135,7 @@ const Layout: React.FC<{ children: React.ReactNode; isPlaying: boolean; onToggle
       <footer className="pt-0 pb-12 bg-transparent text-center relative overflow-hidden z-0">
         <div className="max-w-4xl mx-auto px-4 relative z-10 flex flex-col items-center">
           <img
-            src="public/0.png"
+            src="/0.png"
             alt="Traditional Wedding Footer"
             className="w-full h-auto max-w-2xl mix-blend-multiply transform hover:scale-[1.02] transition-transform duration-500"
           />
